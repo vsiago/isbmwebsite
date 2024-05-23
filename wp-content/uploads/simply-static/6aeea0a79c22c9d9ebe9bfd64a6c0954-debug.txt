@@ -4173,3 +4173,5 @@
 [2024-05-23 13:33:22] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
 [2024-05-23 13:33:22] [class-ss-archive-creation-job.php:197] Completing the job
 [2024-05-23 13:33:23] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:01:58
+[2024-05-23 13:42:12] [class-ss-url-fetcher.php:251] Fetching URL: http://isbm.local
+[2024-05-23 13:42:13] [class-ss-url-fetcher.php:251] Fetching URL: http://isbm.local
